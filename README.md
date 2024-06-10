@@ -1,6 +1,6 @@
 ## Aplicativo de Ponto de Venda (PDV) Desktop
 
-#### Nome: erick Daniel Teixeira Vier - RA: 235908-1
+#### Nome: Erick Daniel Teixeira Vier - RA: 235908-1
 
 <br>
 
