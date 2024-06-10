@@ -10,7 +10,7 @@
 - Banco de dados PostgreSQL 15.3 ou superior
 
 ## Configuração do Ambiente
-1. Instale o Java 17: [Download Java 17](https://www.oracle.com/java/technologies/javase-jdk17-downloads.html)
+1. Instale o Java 17: [Download Java 17](https://www.oracle.com/java/technologies/downloads/#java17)
 2. Instale o Maven: [Download Maven](https://maven.apache.org/download.cgi)
 3. Crie um banco chamado postgres e um schema chamado pdvdesktop ou modifique o arquivo persistence.xml colocando as informações de seu ambiente
 
